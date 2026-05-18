@@ -1,6 +1,6 @@
 # Portal Berita Mahasiswa - CRUD & Authentication (Laravel 11 + Vite)
 
-Aplikasi Web Portal Berita sederhana yang dibangun menggunakan **Framework Laravel 11** sebagai REST API Backend, terintegrasi dengan **Vite** dan **Vanilla JavaScript (Fetch API)** di sisi Frontend. Proyek ini dibuat untuk memenuhi tugas praktikum Pemrograman Web (BAB 10 - Web Framework).
+Aplikasi Web Portal Berita sederhana yang dibangun menggunakan **Framework Laravel 11** sebagai REST API Backend, terintegrasi dengan **Vite** dan **Vanilla JavaScript (Fetch API)** di sisi Frontend. Proyek ini dibuat untuk memenuhi tugas praktikum Pemrograman Aplikasi Web (BAB 10 - Web Framework).
 
 ## 🚀 Fitur Utama
 
@@ -35,8 +35,8 @@ Pastikan komputer Anda sudah terpasang Git, PHP (v8.2+), Composer, Node.js (NPM)
 
 ### 2. Kloning Repositori
 ```bash
-git clone [https://github.com/username-kamu/nama-repo-kamu.git](https://github.com/username-kamu/nama-repo-kamu.git)
-cd nama-repo-kamu
+git clone https://github.com/ChelseaKimikoChan/Laporan-Praktikum-Pemrograman-Aplikasi-Web-BAB-10.git
+cd Laporan-Praktikum-Pemrograman-Aplikasi-Web-BAB-10
 ```
 
 ### 3. Instalasi Dependensi Backend & Frontend
